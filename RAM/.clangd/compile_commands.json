@@ -1,0 +1,12 @@
+[
+   {
+      "directory" : "C:/ti/projects/Example_F2802xSci_Echoback/Example_F2802xSci_Echoback/RAM",
+      "command"   : "clang++ -I\"C:/ti/ccs2041/ccs/tools/compiler/ti-cgt-c2000_22.6.3.LTS/include\" -I\"C:/ti/c2000/C2000Ware_6_00_01_00/device_support/f2802x/common/include\" -I\"C:/ti/c2000/C2000Ware_6_00_01_00/device_support/f2802x/headers/include\" -I\"C:/ti/c2000/C2000Ware_6_00_01_00/device_support/f2802x\" -I\"C:/ti/c2000/C2000Ware_6_00_01_00/libraries/math/IQmath/c28/include\" -D_DEBUG -DLARGE_MODEL -DCPU_FRQ_60MHZ -xc",
+      "file"      : "C:/ti/projects/Example_F2802xSci_Echoback/Example_F2802xSci_Echoback/Example_2802xSci_Echoback.c"
+   },
+   {
+      "directory" : "C:/ti/projects/Example_F2802xSci_Echoback/Example_F2802xSci_Echoback/RAM",
+      "command"   : "clang++ -I\"C:/ti/ccs2041/ccs/tools/compiler/ti-cgt-c2000_22.6.3.LTS/include\" -I\"C:/ti/c2000/C2000Ware_6_00_01_00/device_support/f2802x/common/include\" -I\"C:/ti/c2000/C2000Ware_6_00_01_00/device_support/f2802x/headers/include\" -I\"C:/ti/c2000/C2000Ware_6_00_01_00/device_support/f2802x\" -I\"C:/ti/c2000/C2000Ware_6_00_01_00/libraries/math/IQmath/c28/include\" -D_DEBUG -DLARGE_MODEL -DCPU_FRQ_60MHZ",
+      "file"      : "C:/ti/projects/Example_F2802xSci_Echoback/Example_F2802xSci_Echoback/RAM/Example_F2802xSci_echoback.hex.asm"
+   }
+]

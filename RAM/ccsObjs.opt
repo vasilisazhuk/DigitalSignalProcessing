@@ -1,0 +1,7 @@
+"./Example_2802xSci_Echoback.obj"
+"../28023_RAM_lnk.cmd"
+"C:/ti/c2000/C2000Ware_6_00_01_00/device_support/f2802x/headers/cmd/F2802x_Headers_nonBIOS.cmd"
+"C:/ti/c2000/C2000Ware_6_00_01_00/device_support/f2802x/common/ccs/Debug/driverlib.lib"
+-lrts2800_ml.lib
+-lIQmath.lib
+-llibc.a
